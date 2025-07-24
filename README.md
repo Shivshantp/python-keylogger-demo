@@ -1,5 +1,10 @@
 
 # 🛡️ Python-Based Keylogger for Security Awareness
+_A demo tool to understand real-world keylogging techniques in a controlled lab setup_
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Kali-informational)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 This project demonstrates how attackers use keyloggers to capture sensitive keystrokes using simple Python scripts. It is built **for educational purposes only**, to help understand the risks posed by such tools in real-world environments.
 
