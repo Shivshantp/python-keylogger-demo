@@ -28,6 +28,14 @@ This project demonstrates how attackers use keyloggers to capture sensitive keys
 
 ---
 
+## 🔗 Quick Access
+
+- [📝 keylogger_client.py](keylogger_client.py)
+- [📝 receive_logs.py](receive_logs.py)
+- [📂 screenshots/](screenshots)
+
+---
+
 ## 🖥️ Project Demo Screenshots
 
 | Stage | Screenshot |
